@@ -1,2 +1,2 @@
 # chatty-bot
- This is a chatty bot and also my first prowyect at python
+ This is a chatty bot and also my first proyect on python
